@@ -4,15 +4,100 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Custom Build CSS Config */
+#headSection h1{
+    font-size: 60px;
+    font-weight: 900;
+    color: #0F1B4D;
+}
+.Logo h2{
+    color: #0F1B4D;
+    font-weight: bold;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.review h2{
+    color: #0F1B4D;
+    font-weight: bold;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+h6{
+    font-size: 18px;
+    color: #1e2a47;
+}
+p{
+    font-size: 18px;
+    padding: 25px 0px;
+    font-family: arial;
+    color: #415a77;
+}
+
+
+
+
+
 header
 {
     background: #E7F0FF;
 }
 
 
+
+/* Logo Edit */
+.Logo{
+    text-decoration: none;
+}
+.Logo h2:hover{
+    color: #0F1B4D;
+}
+
+/* Button section */
 #buttonb
 {
     background: #0F1B4D;
     color: white;
     border-radius: 5px;
 }
+
+#buttonc
+{
+    background: #0F1B4D;
+    color: white;
+    border-radius: 5px;
+    padding: 15px 30px;
+}
+
+
+/* Header section  */
+#head_info{
+    margin-top: 90px;
+}
+
+
+
+/* review section */
+
+.review {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
